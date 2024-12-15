@@ -1,6 +1,6 @@
-import { getCartProductLS } from "./getProductFromLS"
-import { updateCartProductTotal } from "./updateCartProductTotal"
-import { updateCartValue } from "./updateCartValue"
+import { getCartProductLS } from "../getProductFromLS"
+import { updateCartProductTotal } from "../updateCartProductTotal"
+import { updateCartValue } from "../updateCartValue"
 
 let cartProducts = getCartProductLS()
 
