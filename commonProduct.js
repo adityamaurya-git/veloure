@@ -1,7 +1,7 @@
 
-import products from "./product.json"
-import { showProduct } from "./showProduct.js"
-import { addToCart } from "./addToCart.js";
+import products from "../product.json"
+import { showProduct } from "../showProduct.js"
+import { addToCart } from "../addToCart.js";
 
 
 
