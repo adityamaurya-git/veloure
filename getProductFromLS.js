@@ -1,4 +1,4 @@
-import { updateCartValue } from "../updateCartValue"
+import { updateCartValue } from "./updateCartValue"
 
 export function getCartProductLS(){
     let cartProduct = localStorage.getItem("cartProductLS")
