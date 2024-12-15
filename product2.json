@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "SUPPLE GRAINED LEATHER",
+        "price": 1900,
+        "img": "/images/diorlipglow2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "HOBO IN SUEDE",
+        "price": 3450,
+        "img": "/images/diorlipstick1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "HOBO IN SUEDE",
+        "price": 3450,
+        "img": "/images/diornailpaint1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "HOBO IN SUEDE",
+        "price": 3450,
+        "img": "/images/diornailpaint2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "HOBO IN SUEDE",
+        "price": 3450,
+        "img": "/images/diorperfume2.jpg"
+    },
+    {
+        "id": 6,
+        "name": "HOBO IN SUEDE",
+        "price": 3450,
+        "img": "/images/diorperfume3.jpg"
+    },
+    {
+        "id": 7,
+        "name": "HOBO IN SUEDE",
+        "price": 3450,
+        "img": "/images/diorperfume4.jpg"
+    },
+    {
+        "id": 8,
+        "name": "HOBO IN SUEDE",
+        "price": 3450,
+        "img": "/images/diorperfume1.jpg"
+    },
+    {
+        "id": 9,
+        "name": "HOBO IN SUEDE",
+        "price": 3450,
+        "img": "/images/diorbag3.jpg"
+    },
+    {
+        "id": 10,
+        "name": "HOBO IN SUEDE",
+        "price": 3450,
+        "img": "/images/diorbag1.jpg"
+    },
+    {
+        "id": 11,
+        "name": "HOBO IN SUEDE",
+        "price": 3450,
+        "img": "/images/diorbag2.jpg"
+    },
+    {
+        "id": 12,
+        "name": "HOBO IN SUEDE",
+        "price": 3450,
+        "img": "/images/diormainimage.jpg"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "EYES VOLUME MASCARA",
+        "price": 39,
+        "img": "/images/charlotte1.webp"
+    },
+    {
+        "id": 2,
+        "name": "SHEER GLOW TINT",
+        "price": 46,
+        "img": "/images/charlotte2.webp"
+    },
+    {
+        "id": 3,
+        "name": "MINI PILLOW LIP KIT",
+        "price": 35,
+        "img": "/images/charlotte5.webp"
+    },
+    {
+        "id": 4,
+        "name": "BIG LIP PLUMPGSAM",
+        "price": 35,
+        "img": "/images/charlotte7.webp"
+    },
+    {
+        "id": 5,
+        "name": "BEAUTYVERSE LOVE PALETTE",
+        "price": 79,
+        "img": "/images/charlotte3.webp"
+    },
+    {
+        "id": 6,
+        "name": "SKIN TINT",
+        "price": 89,
+        "img": "/images/charlotte6.webp"
+    },
+    {
+        "id": 7,
+        "name": "GLOW LIP & CHEEK",
+        "price": 40,
+        "img": "/images/charlotte8.webp"
+    },
+    {
+        "id": 8,
+        "name": "INSTANT FACE KIT",
+        "price": 149,
+        "img": "/images/charlotte4.webp"
+    },
+    {
+        "id": 9,
+        "name": "LOOK OF LOVE LIPSTICK",
+        "price": 79,
+        "img": "/images/charlotte9.webp"
+    },
+    {
+        "id": 10,
+        "name": "SUPERSTAR LIPS",
+        "price": 39,
+        "img": "/images/charlotte10.webp"
+    },
+    {
+        "id": 11,
+        "name": "RADIANT CONCEALER",
+        "price": 34,
+        "img": "/images/charlotte11.webp"
+    },
+    {
+        "id": 12,
+        "name": "MAKEUP SECRETS",
+        "price": 144,
+        "img": "/images/charlotteset1.jpg"
+    }
+]
