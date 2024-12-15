@@ -69,6 +69,6 @@
         "id": 12,
         "name": "HOBO IN SUEDE",
         "price": 3450,
-        "img": "/images/diormainimage.jpg"
+        "img": "diormainimage.jpg"
     }
 ]
