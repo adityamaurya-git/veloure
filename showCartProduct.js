@@ -1,10 +1,10 @@
-import products from "./product.json"
-import { cartQuantityToggle } from "./cartQuantityToggle";
-import { fetchQuantityFromLS } from "./fetchQuantityFromLS";
-import { getCartProductLS } from "./getProductFromLS";
-import { removeProductFromCart } from "./removeProductFromCart";
-import { updateCartProductTotal } from "./updateCartProductTotal";
-import { clearCart } from "./clearCart";
+import products from "../product.json"
+import { cartQuantityToggle } from "../cartQuantityToggle";
+import { fetchQuantityFromLS } from "../fetchQuantityFromLS";
+import { getCartProductLS } from "../getProductFromLS";
+import { removeProductFromCart } from "../removeProductFromCart";
+import { updateCartProductTotal } from "../updateCartProductTotal";
+import { clearCart } from "../clearCart";
 
 const leftContainer = document.querySelector(".leftContainer");
 const templateCartContainer = document.querySelector(".templateCartContainer");
