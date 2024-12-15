@@ -1,4 +1,4 @@
-import { getCartProductLS } from "./getProductFromLS";
+import { getCartProductLS } from "../getProductFromLS";
 
 export function updateCartProductTotal(){
 
