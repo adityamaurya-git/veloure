@@ -1,5 +1,5 @@
 
-import products2 from "../product2.json"
+import products2 from "./product2.json"
 import { showProduct } from "./showProduct.js"
 import { addToCart } from "./addToCart.js";
 
