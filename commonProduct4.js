@@ -1,7 +1,7 @@
 
-import products4 from "../jsfiles/product4.json"
-import { showProduct } from "../jsfiles/showProduct.js"
-import { addToCart } from "../jsfiles/addToCart.js";
+import products4 from "./product4.json"
+import { showProduct } from "./showProduct.js"
+import { addToCart } from "./addToCart.js";
 
 
 // Initialize Lenis
