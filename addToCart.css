@@ -8,17 +8,17 @@
 
 @font-face {
   font-family: serifregular;
-  src: url(/font/PPFragment-SerifRegular.otf);
+  src: url(PPFragment-SerifRegular.otf);
 }
 
 @font-face {
   font-family: light;
-  src: url(/font/AeonikTRIAL-Light.otf);
+  src: url(AeonikTRIAL-Light.otf);
 }
 
 @font-face {
   font-family: medium;
-  src: url(/font/AeonikTRIAL-Regular.otf);
+  src: url(AeonikTRIAL-Regular.otf);
 }
 
 :root {
