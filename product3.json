@@ -3,67 +3,67 @@
         "id": 1,
         "name": "KATE MINI PAILLETTES",
         "price": 995,
-        "img": "/images/christian4.jpg"
+        "img": "christian4.jpg"
     },
     {
         "id": 2,
         "name": "CONDORA RIVIERA",
         "price": 3045,
-        "img": "/images/christian2.jpg"
+        "img": "christian2.jpg"
     },
     {
         "id": 3,
         "name": "SO KATE",
         "price": 795,
-        "img": "/images/christian3.jpg"
+        "img": "christian3.jpg"
     },
     {
         "id": 4,
         "name": "CONDORA STRAP",
         "price": 995,
-        "img": "/images/christian51.jpg"
+        "img": "christian51.jpg"
     },
     {
         "id": 5,
         "name": "FUN VIEIRA",
         "price": 895,
-        "img": "/images/christian61.jpg"
+        "img": "christian61.jpg"
     },
     {
         "id": 6,
         "name": "LOUISE JUNIOR SPIKES",
         "price": 995,
-        "img": "/images/christian7.jpg"
+        "img": "christian7.jpg"
     },
     {
         "id": 7,
         "name": "VIEIRA NIGHT SPIKES",
         "price": 1395,
-        "img": "/images/christian8.jpg"
+        "img": "christian8.jpg"
     },
     {
         "id": 8,
         "name": "GIDDY VIEIRA STRASS",
         "price":"1545",
-        "img": "/images/christian9.jpg"
+        "img": "christian9.jpg"
     },
     {
         "id": 9,
         "name": "PALOMA MINI",
         "price": 2190,
-        "img": "/images/christian15.jpg"
+        "img": "christian15.jpg"
     },
     {
         "id": 10,
         "name": "PALOMA MEDIUM",
         "price": 2890,
-        "img": "/images/christian14.jpg"
+        "img": "christian14.jpg"
     },
     {
         "id": 11,
         "name": "LOUBA54",
         "price": 3450,
-        "img": "/images/christian16.jpg"
+        "img": "christian16.jpg"
     },
     {
         "id": 12,
