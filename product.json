@@ -3,91 +3,91 @@
         "id": 1,
         "name": "SUPPLE GRAINED LEATHER",
         "price": 1900,
-        "img": "/images/yslbag6.avif"
+        "img": "yslbag6.avif"
     },
     {
         "id": 2,
         "name": "HOBO IN SUEDE",
         "price": 3450,
-        "img": "/images/yslbag5.avif"
+        "img": "yslbag5.avif"
     },
     {
         "id": 3,
         "name": "MINI PATENT LEATHER",
         "price": 1850,
-        "img": "/images/yslbag7.avif"
+        "img": "yslbag7.avif"
     },
     {
         "id": 4,
         "name": "Veloure Leather Bag",
         "price": 2400,
-        "img": "/images/yslbag4.avif"
+        "img": "yslbag4.avif"
     },
     {
         "id": 5,
         "name": "LA 4 PUMPS CREPE",
         "price": 1850,
-        "img": "/images/yslheel4.webp"
+        "img": "yslheel4.webp"
     },
     {
         "id": 6,
         "name": "LA 5 PUMPS",
         "price": 1500,
-        "img": "/images/yslheel3.jpg"
+        "img": "yslheel3.jpg"
     },
     {
         "id": 7,
         "name": "OPYUM MULES SATIN",
         "price": 1250,
-        "img": "/images/yslheel5.jpg"
+        "img": "yslheel5.jpg"
     },
     {
         "id": 8,
         "name": "OPYUM SANDALS CREPE",
         "price": 1300,
-        "img": "/images/yslheel7.jpg"
+        "img": "yslheel7.jpg"
     },
     {
         "id": 9,
         "name": "SAINT DE SET",
         "price": 1250,
-        "img": "/images/yslset1.jpg"
+        "img": "yslset1.jpg"
     },
     {
         "id": 10,
         "name": "L'UNIVERSITE PERFUME",
         "price": 295,
-        "img": "/images/yslperfume1.jpg"
+        "img": "yslperfume1.jpg"
     },
     {
         "id": 11,
         "name": "BELLECHASSE PERFUME",
         "price": 295,
-        "img": "/images/yslperfume2.jpg"
+        "img": "yslperfume2.jpg"
     },
     {
         "id": 12,
         "name": "SAINT SULPICE PERFUME",
         "price": 500,
-        "img": "/images/yslperfume3.jpg"
+        "img": "yslperfume3.jpg"
     },
     {
         "id": 13,
         "name": "UPTOWN POUCH",
         "price": 650,
-        "img": "/images/yslpouch1.avif"
+        "img": "yslpouch1.avif"
     },
     {
         "id": 14,
         "name": "CHAIN BRACELET",
         "price": 550,
-        "img": "/images/yslcuff1.avif"
+        "img": "yslcuff1.avif"
     },
     {
         "id": 15,
         "name": "PEARL BRACELET",
         "price": 350,
-        "img": "/images/yslcuff2.avif"
+        "img": "yslcuff2.avif"
     },
     {
         "id": 16,
