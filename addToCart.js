@@ -1,8 +1,8 @@
-import { getCartProductLS } from "../getProductFromLS";
-import { showToast } from "../showToast";
-import { updateCartProductTotal } from "../updateCartProductTotal";
+import { getCartProductLS } from "./getProductFromLS";
+import { showToast } from "./showToast";
+import { updateCartProductTotal } from "./updateCartProductTotal";
 
-import { updateCartValue } from "../updateCartValue";
+import { updateCartValue } from "./updateCartValue";
 
 
 getCartProductLS()
