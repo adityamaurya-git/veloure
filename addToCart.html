@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>velouré : Add To Cart</title>
+    <link rel="shortcut icon" href="/images/veloureLogo.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="/product/addToCart.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
+</head>
+
+<body class="body">
+
+    <header class="cartHeader">
+
+        <nav class="navbar">
+            <div class="logo">
+                <h1>Velouré</h1>
+            </div>
+            <div class="menuBtn">
+                <div class="cartno">0</div>
+                <a href="/src/addToCart.html"><i class="fa-solid fa-cart-plus"></i></a>
+                <!-- <i class="fa-solid fa-bars"></i> -->
+            </div>
+        </nav>
+
+        <!-- <aside>
+            <div class="close">
+                <h2>CLOSE</h2>
+            </div>
+            <div class="cartContainer">
+
+            </div>
+        </aside> -->
+
+    </header>
+
+    <h1 class="checkoutH1">CheckOut</h1>
+
+    <div class="Cartcontainer">
+        <div class="leftContainer">
+
+        </div>
+        <div class="rightContainer">
+            <div class="productCartTotalElement">
+                <p>Selected Offer Summary</p>
+                <div class="productOrderTotal">
+                    <div class="orderTotalInfo">
+                        <p>Sub Total:</p>
+                        <p class="productSubTotal">0</p>
+                    </div>
+                    <div class="orderTotalInfo">
+                        <p>Tax:</p>
+                        <p class="productTax">$50</p>
+                    </div>
+                    <div class="orderTotalInfo">
+                        <p>Shipping:</p>
+                        <p class="productShipping">$0</p>
+                    </div>
+                    <hr />
+                    <div class="orderTotalInfo">
+                        <p>Final Total:</p>
+                        <p class="productFinalTotal">0</p>
+                    </div>
+                    <div class="orderTotalInfo">
+                        <div class="checkoutBtn">
+                            <h3>Checkout</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- TEMPLATE FOR CART TO ADD PRODUCT -->
+
+    <template class="templateCartContainer">
+        <div class="cartProduct" id="cart1">
+            <i class="fa-solid fa-xmark"></i>
+            <img class="cartImage" src="" alt="">
+            <div class="cartInfo">
+                <h2 class="cartName"></h2>
+                <p class="cartPrice"></p>
+                <!-- <p class="cartQuantity"></p> -->
+                <div class="productQuantity">
+                    <button class="increment">+</button>
+                    <p class="quantity"></p>
+                    <button class="decrement">-</button>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <!-- TEMPLATE FOR CART TO ADD PRODUCT -->
+
+    <footer>
+        <div class="contactContainer">
+            <div class="contactInfo">
+                <h2>EMAIL</h2>
+                <p>Veloure@luxe.ac.in</p>
+            </div>
+            <div class="contactInfo">
+                <h2>PHONE</h2>
+                <p>+91 6666242424</p>
+            </div>
+            <div class="contactInfo">
+                <h2>SOCIAL</h2>
+                <p>INSTAGRAM</p>
+                <P>FACEBOOK</P>
+                <P>LINKED-IN</P>
+            </div>
+        </div>
+        <div class="logoContainer">
+            <h1>Velouré</h1>
+        </div>
+    </footer>
+
+
+    <div class="subfooter">
+        <div class="string">
+            <svg width="1260" height="300">
+                <path d="M 10 150 Q 625 150 1250 150" stroke="white" fill="transparent" />
+            </svg>
+            <div class="rights">
+                <p>©24 Velouré - All rights reserved</p>
+                <a href="/terms&service.html">Terms of Service</a>
+                <a href="">Privacy Policy</a>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+    <script src="https://unpkg.com/lenis@1.1.16/dist/lenis.min.js"></script>
+    <script type="module" src="/jsfiles/showCartProduct.js"></script>
+</body>
+
+</html>

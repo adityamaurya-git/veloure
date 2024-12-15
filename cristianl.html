@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Christian Louboutin</title>
+    <link rel="shortcut icon" href="/images/veloureLogo.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="/product/commonProduct.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
+</head>
+
+<body>
+
+    <div class="cursor"></div>
+    <div class="cursorOutline"></div>
+
+    <!-- LOADER STARTS -->
+
+    <div class="loader">
+        <div class="left">
+            <svg height="800" width="300" xmlns="http://www.w3.org/2000/svg">
+                <line x1="100" y1="0" x2="100" y2="631.5" style="stroke:#1E1005;stroke-width:4" />
+            </svg>
+        </div>
+
+        <div class="load-circle">
+            <svg class="top" height="300" width="300" xmlns="http://www.w3.org/2000/svg">
+                <line x1="150" y1="0" x2="150" y2="300" style="stroke:#1E1005;stroke-width:1.5" />
+            </svg>
+            <svg width="90" height="90" viewBox="-25 -25 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                style="transform:rotate(-90deg)">
+                <circle r="123" cx="100" cy="100" stroke="#1E1005" stroke-width="1.5px" stroke-linecap="round"
+                    stroke-dashoffset="00px" fill="transparent" stroke-dasharray="772.44px"></circle>
+            </svg>
+            <svg class="last" height="300" width="300" xmlns="http://www.w3.org/2000/svg">
+                <line x1="150" y1="300" x2="150" y2="00" style="stroke:#1E1005;stroke-width:1.5" />
+            </svg>
+        </div>
+
+        <div class="right">
+            <svg height="710" width="300" xmlns="http://www.w3.org/2000/svg">
+                <line x1="200" y1="0" x2="200" y2="631.5" style="stroke:#1E1005;stroke-width:4" />
+            </svg>
+        </div>
+    </div>
+
+    <!-- LOADER ENDS -->
+     
+
+    <!-- MAIN SECTION STARTS -->
+
+    <div class="main2">
+
+        <!-- HEADER SECTION STARTS -->
+
+        <header>
+
+            <nav class="navbar">
+                <div class="logo">
+                    <h1>Velouré <span> X Christian Louboutin</span>
+                    </h1>
+                </div>
+                <div class="menuBtn">
+                    <div class="cartno">0</div>
+                    <a href="addToCart.html"><i class="fa-solid fa-cart-plus"></i></a>
+                </div>
+            </nav>
+
+        </header>
+
+        <div class="homeImageContainer">
+            <div class="shImage">
+                <img src="/images/cristianmain1.webp" alt="">
+            </div>
+            <div class="shImage">
+                <img src="/images/cristianlside.jpg" alt="">
+            </div>
+            <div class="shImage">
+                <img src="/images/yslland4.avif" alt="">
+            </div>
+        </div>
+        <!-- HEADER SECTION ENDS -->
+
+        <!-- PRODUCT SECTION STARTS -->
+        <section id="products" class="productContainer">
+            <h1>Our Collection</h1>
+            <div class="product-list" id="product-list">
+                <!-- dinamically data add -->
+            </div>
+        </section>
+
+
+        <!-- TEMPLATE FOR PRODUCTS TO SHOW  -->
+
+        <template class="templateContainer">
+            <div class="product" id="cardValue">
+                <img class="image" src="" alt="">
+                <h2 class="name"></h2>
+                <p class="price"></p>
+                <div class="productQuantity">
+                    <button class="increment">+</button>
+                    <p class="quantity">1</p>
+                    <button class="decrement">-</button>
+                </div>
+                <button class="add"><h2>Add To Cart</h2></button>
+            </div>
+        </template>
+
+        <!-- TEMPLATE FOR PRODUCTS TO SHOW  -->
+
+       
+        
+
+        <!-- PRODUCT SECTION ENDS -->
+
+        <footer>
+            <div class="contactContainer">
+                <div class="contactInfo">
+                    <h2>EMAIL</h2>
+                    <p>Veloure@luxe.ac.in</p>
+                </div>
+                <div class="contactInfo">
+                    <h2>PHONE</h2>
+                    <p>+91 6666242424</p>
+                </div>
+                <div class="contactInfo">
+                    <h2>SOCIAL</h2>
+                    <p>INSTAGRAM</p>
+                    <P>FACEBOOK</P>
+                    <P>LINKED-IN</P>
+                </div>
+            </div>
+            <div class="logoContainer">
+                <h1>Velouré</h1>
+            </div>
+        </footer>
+
+
+        <div class="subfooter">
+            <div class="string">
+                <svg width="1260" height="300">
+                    <path d="M 10 150 Q 625 150 1250 150" stroke="white" fill="transparent" />
+                </svg>
+                <div class="rights">
+                    <p>©24 Velouré - All rights reserved</p>
+                    <a href="/terms&service.html">Terms of Service</a>
+                    <a href="">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    </div>
+
+
+    <!-- MAIN SECTION ENDS -->
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+    <script type="module" src="/product/commonProduct3.js"></script>
+    <script src="https://unpkg.com/lenis@1.1.16/dist/lenis.min.js"></script>
+</body>
+
+</html>
