@@ -1,5 +1,5 @@
 
-import products from ./product.json' assert { type: 'json' };
+import products from './product.json' assert { type: 'json' };
 import { showProduct } from "./showProduct.js"
 import { addToCart } from "./addToCart.js";
 
